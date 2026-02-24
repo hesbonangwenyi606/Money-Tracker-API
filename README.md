@@ -1,5 +1,4 @@
-# 💰 Money Tracker API
-
+# Money Tracker API
 A RESTful API built with **PHP Laravel** that allows users to manage multiple wallets and track income/expense transactions.
 
 ---
